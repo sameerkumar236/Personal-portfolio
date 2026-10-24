@@ -17,7 +17,7 @@ const createMetadata = (title, description, path) => ({
 export const pageMetadata = {
     home: createMetadata(
         "Sameer Kumar | Software Developer",
-        "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js, Python & Go. Open to freelance and full-time opportunities.",
+        "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js. Open to freelance and full-time opportunities.",
         "/",
     ),
     projects: createMetadata(
@@ -33,7 +33,7 @@ export const pageMetadata = {
     uses: createMetadata("Uses", "Tools, languages, and frameworks I use daily.", "/uses"),
     locations: createMetadata(
         "About — Location & Background",
-        "Software developer from Chhattisgarh, India working remotely with teams across the country.",
+        "Software developer from India working remotely with teams across the country.",
         "/locations",
     ),
     location: createMetadata(
@@ -61,7 +61,7 @@ export const pageMetadata = {
 export const getLocationMetadata = (city) =>
     createMetadata(
         `Software Developer in ${city.name}, ${city.state}`,
-        `Software developer from Chhattisgarh, India with experience building products for teams in ${city.name}, ${city.state} and remotely across the country.`,
+        `Software developer from India with experience building products for teams in ${city.name}, ${city.state} and remotely across the country.`,
         `/locations/${city.slug}`,
     );
 
@@ -81,7 +81,7 @@ export const pageCopy = {
         origin: "Chhattisgarh, India",
         introduction: "I'm a software developer from",
         remoteExperience:
-            ". I've worked remotely with companies in Noida, Pune, Jaipur, Bengaluru, and Sri Lanka.",
+            ". I've worked in liqvid company",
         description: "Software developer from Chhattisgarh, working remotely.",
         aboutTitle: "About",
         aboutIntroduction: "I'm a full stack software developer from",
