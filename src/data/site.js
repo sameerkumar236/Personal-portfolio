@@ -4,7 +4,7 @@ export const site = {
     name: "Sameer",
     title: `${myInfo.name} | Software Developer`,
     description:
-        "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js, Python & Go. Open to freelance and full-time opportunities.",
+        "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js. Open to freelance and full-time opportunities.",
     image: "/preview.webp",
     logo: "/logo.webp",
     locale: "en_US",

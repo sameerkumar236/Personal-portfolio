@@ -33,7 +33,7 @@ export const personJsonLd = JSON.stringify(
 const webSiteName = "Sameer Kumar | Software Developer";
 
 const webSiteDescription =
-    "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js, Python & Go.";
+    "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js.";
 
 export const webSiteJsonLd = JSON.stringify(
     {
