@@ -1,0 +1,26 @@
+export const uiContent = {
+    brand: "Sameer",
+    domainSuffix: ".dev",
+    role: ["Software", "Developer"],
+    openToWork: "Open to work",
+    arcade: "Arcade",
+    play: "Play",
+    pause: "Pause",
+    lastUpdated: "Last updated:",
+    copyrightYear: 2026,
+    themeShortcut: "Ctrl + M",
+    toggleTheme: "Toggle color theme",
+    copyCommand: "Copy terminal command",
+    commandCopied: "Command copied",
+    openScript: "Open shell script",
+    projectsLink: {
+        label: "View projects",
+        href: "/projects",
+    },
+    sectionTitles: {
+        experience: ["Ex", "perience"],
+        education: ["Ed", "ucation"],
+        projects: ["Pro", "jects"],
+        skills: ["S", "kills"],
+    },
+};

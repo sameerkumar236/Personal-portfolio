@@ -1,0 +1,37 @@
+{
+  "/projects": {
+    "metadata": {
+      "title": "Projects | Sameer Kumar",
+      "description": "Full-stack SaaS projects built by  Sameer Kumar — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
+      "canonical": "http://localhost:3000/projects",
+      "openGraph": {
+        "title": "Projects",
+        "description": "Full-stack SaaS projects built by Sameer Kumar — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
+        "type": "website",
+        "url": "http://localhost:3000/projects",
+        "images": [
+          {
+            "url": "http://localhost:3000/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Projects | Sameer Kumar",
+      "description": "Full-stack SaaS projects built by Sameer Kumar — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
+      "url": "http://localhost:3000/projects",
+      "author": {
+        "@type": "Person",
+        "name": "Sameer Kumar",
+        "url": "http://localhost:3000"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Sameer Kumar | Software Developer",
+        "url": "http://localhost:3000"
+      }
+    }
+  }
+}
