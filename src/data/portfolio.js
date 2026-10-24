@@ -170,7 +170,7 @@ export const projects = [
             },
             {
                 name: "GitHub",
-                url: "https://github.com/sameerkumar236/utility-tools",
+                url: "https://github.com/sameerkumar236/Code-collab",
                 iconName: "IoLogoGithub",
                 target: "_blank",
             },
@@ -200,23 +200,7 @@ export const projects = [
     },
 ];
 
-export const tools = [
-    {
-        show: true,
-        title: "Go Tunnel",
-        description:
-            "A minimal, self-hosted reverse port-forwarding CLI built in Go. Uses a single WebSocket connection to multiplex public HTTP traffic from a VPS down to your local machine — no Ngrok or Cloudflare Tunnel required.",
-        skills: [skills.go],
-        links: [
-            {
-                name: "GitHub",
-                url: "https://github.com/sameerkumar236/go-tunnel",
-                iconName: "IoLogoGithub",
-                target: "_blank",
-            },
-        ],
-    },
-];
+
 
 export const experiences = [
     {
